@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+// Função para pesquisar um valor em um vetor
+int search(int arr[], int n, int value) {
+    for (int i = 0; i < n; i++) {
+        if (arr[i] == value) {
+            return i; // Retorna o índice onde o valor foi encontrado
+        }
+    }
+    return -1; // Retorna -1 se o valor não for encontrado
+}
+
+int main() {
+    int arr[] = {5, 10, 15, 20, 25, 30, 35, 40, 45, 50};
+    int n = sizeof(arr) / sizeof(arr[0]);
+    int value = 30;
+
+    printf("Vetor: ");
+    for (int i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+
+    int index = search(arr, n, value);
+
+    if (index != -1) {
+        printf("O valor %d foi encontrado no índice %d.\n", value, index);
+    } else {
+        printf("O valor %d não foi encontrado no vetor.\n", value);
+    }
+
+    return 0;
+}

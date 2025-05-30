@@ -1,0 +1,552 @@
+
+E1
+Tok: Pont	Lex: }	Ocor: L33C2
+
+E2
+Tok: Pont	Lex: ;	Ocor: L32C14
+
+E3
+Tok: Num	Lex: 0	Ocor: L32C13
+
+E4
+Tok: Key	Lex: return	Ocor: L32C11
+
+E5
+Tok: Pont	Lex: }	Ocor: L30C6
+
+E6
+Tok: Pont	Lex: ;	Ocor: L29C69
+
+E7
+Tok: Pont	Lex: )	Ocor: L29C68
+
+E8
+Tok: Id		Lex: value	Ocor: L29C67
+
+E9
+Tok: Pont	Lex: ,	Ocor: L29C61
+
+E10
+Tok: Pont	Lex: (	Ocor: L29C16
+
+E11
+Tok: Key	Lex: printf	Ocor: L29C15
+
+E12
+Tok: Pont	Lex: {	Ocor: L28C13
+
+E13
+Tok: Key	Lex: else	Ocor: L28C11
+
+E14
+Tok: Pont	Lex: }	Ocor: L28C6
+
+E15
+Tok: Pont	Lex: ;	Ocor: L27C76
+
+E16
+Tok: Pont	Lex: )	Ocor: L27C75
+
+E17
+Tok: Id		Lex: index	Ocor: L27C74
+
+E18
+Tok: Pont	Lex: ,	Ocor: L27C68
+
+E19
+Tok: Id		Lex: value	Ocor: L27C67
+
+E20
+Tok: Pont	Lex: ,	Ocor: L27C61
+
+E21
+Tok: Pont	Lex: (	Ocor: L27C16
+
+E22
+Tok: Key	Lex: printf	Ocor: L27C15
+
+E23
+Tok: Pont	Lex: {	Ocor: L26C23
+
+E24
+Tok: Pont	Lex: )	Ocor: L26C21
+
+E25
+Tok: Num	Lex: 1	Ocor: L26C20
+
+E26
+Tok: Op		Lex: -	Ocor: L26C19
+
+E27
+Tok: Op		Lex: !=	Ocor: L26C17
+
+E28
+Tok: Id		Lex: index	Ocor: L26C14
+
+E29
+Tok: Pont	Lex: (	Ocor: L26C9
+
+E30
+Tok: Key	Lex: if	Ocor: L26C7
+
+E31
+Tok: Pont	Lex: ;	Ocor: L24C39
+
+E32
+Tok: Pont	Lex: )	Ocor: L24C38
+
+E33
+Tok: Id		Lex: value	Ocor: L24C37
+
+E34
+Tok: Pont	Lex: ,	Ocor: L24C31
+
+E35
+Tok: Id		Lex: n	Ocor: L24C30
+
+E36
+Tok: Pont	Lex: ,	Ocor: L24C28
+
+E37
+Tok: Id		Lex: arr	Ocor: L24C27
+
+E38
+Tok: Pont	Lex: (	Ocor: L24C24
+
+E39
+Tok: Id		Lex: search	Ocor: L24C23
+
+E40
+Tok: Op		Lex: =	Ocor: L24C16
+
+E41
+Tok: Id		Lex: index	Ocor: L24C14
+
+E42
+Tok: Key	Lex: int	Ocor: L24C8
+
+E43
+Tok: Pont	Lex: ;	Ocor: L22C18
+
+E44
+Tok: Pont	Lex: )	Ocor: L22C17
+
+E45
+Tok: Pont	Lex: (	Ocor: L22C12
+
+E46
+Tok: Key	Lex: printf	Ocor: L22C11
+
+E47
+Tok: Pont	Lex: }	Ocor: L21C6
+
+E48
+Tok: Pont	Lex: ;	Ocor: L20C31
+
+E49
+Tok: Pont	Lex: )	Ocor: L20C30
+
+E50
+Tok: Pont	Lex: ]	Ocor: L20C29
+
+E51
+Tok: Id		Lex: i	Ocor: L20C28
+
+E52
+Tok: Pont	Lex: [	Ocor: L20C27
+
+E53
+Tok: Id		Lex: arr	Ocor: L20C26
+
+E54
+Tok: Pont	Lex: ,	Ocor: L20C22
+
+E55
+Tok: Pont	Lex: (	Ocor: L20C16
+
+E56
+Tok: Key	Lex: printf	Ocor: L20C15
+
+E57
+Tok: Pont	Lex: {	Ocor: L19C34
+
+E58
+Tok: Pont	Lex: )	Ocor: L19C32
+
+E59
+Tok: Op		Lex: +	Ocor: L19C31
+
+E60
+Tok: Op		Lex: +	Ocor: L19C30
+
+E61
+Tok: Id		Lex: i	Ocor: L19C29
+
+E62
+Tok: Pont	Lex: ;	Ocor: L19C27
+
+E63
+Tok: Id		Lex: n	Ocor: L19C26
+
+E64
+Tok: Op		Lex: <	Ocor: L19C24
+
+E65
+Tok: Id		Lex: i	Ocor: L19C22
+
+E66
+Tok: Pont	Lex: ;	Ocor: L19C20
+
+E67
+Tok: Num	Lex: 0	Ocor: L19C19
+
+E68
+Tok: Op		Lex: =	Ocor: L19C17
+
+E69
+Tok: Id		Lex: i	Ocor: L19C15
+
+E70
+Tok: Key	Lex: int	Ocor: L19C13
+
+E71
+Tok: Pont	Lex: (	Ocor: L19C10
+
+E72
+Tok: Key	Lex: for	Ocor: L19C8
+
+E73
+Tok: Pont	Lex: ;	Ocor: L18C23
+
+E74
+Tok: Pont	Lex: )	Ocor: L18C22
+
+E75
+Tok: Pont	Lex: (	Ocor: L18C12
+
+E76
+Tok: Key	Lex: printf	Ocor: L18C11
+
+E77
+Tok: Pont	Lex: ;	Ocor: L16C20
+
+E78
+Tok: Num	Lex: 30	Ocor: L16C19
+
+E79
+Tok: Op		Lex: =	Ocor: L16C16
+
+E80
+Tok: Id		Lex: value	Ocor: L16C14
+
+E81
+Tok: Key	Lex: int	Ocor: L16C8
+
+E82
+Tok: Pont	Lex: ;	Ocor: L15C42
+
+E83
+Tok: Pont	Lex: )	Ocor: L15C41
+
+E84
+Tok: Pont	Lex: ]	Ocor: L15C40
+
+E85
+Tok: Num	Lex: 0	Ocor: L15C39
+
+E86
+Tok: Pont	Lex: [	Ocor: L15C38
+
+E87
+Tok: Id		Lex: arr	Ocor: L15C37
+
+E88
+Tok: Pont	Lex: (	Ocor: L15C34
+
+E89
+Tok: Key	Lex: sizeof	Ocor: L15C33
+
+E90
+Tok: Op		Lex: /	Ocor: L15C26
+
+E91
+Tok: Pont	Lex: )	Ocor: L15C24
+
+E92
+Tok: Id		Lex: arr	Ocor: L15C23
+
+E93
+Tok: Pont	Lex: (	Ocor: L15C20
+
+E94
+Tok: Key	Lex: sizeof	Ocor: L15C19
+
+E95
+Tok: Op		Lex: =	Ocor: L15C12
+
+E96
+Tok: Id		Lex: n	Ocor: L15C10
+
+E97
+Tok: Key	Lex: int	Ocor: L15C8
+
+E98
+Tok: Pont	Lex: ;	Ocor: L14C57
+
+E99
+Tok: Pont	Lex: }	Ocor: L14C56
+
+E100
+Tok: Num	Lex: 50	Ocor: L14C55
+
+E101
+Tok: Pont	Lex: ,	Ocor: L14C52
+
+E102
+Tok: Num	Lex: 45	Ocor: L14C51
+
+E103
+Tok: Pont	Lex: ,	Ocor: L14C48
+
+E104
+Tok: Num	Lex: 40	Ocor: L14C47
+
+E105
+Tok: Pont	Lex: ,	Ocor: L14C44
+
+E106
+Tok: Num	Lex: 35	Ocor: L14C43
+
+E107
+Tok: Pont	Lex: ,	Ocor: L14C40
+
+E108
+Tok: Num	Lex: 30	Ocor: L14C39
+
+E109
+Tok: Pont	Lex: ,	Ocor: L14C36
+
+E110
+Tok: Num	Lex: 25	Ocor: L14C35
+
+E111
+Tok: Pont	Lex: ,	Ocor: L14C32
+
+E112
+Tok: Num	Lex: 20	Ocor: L14C31
+
+E113
+Tok: Pont	Lex: ,	Ocor: L14C28
+
+E114
+Tok: Num	Lex: 15	Ocor: L14C27
+
+E115
+Tok: Pont	Lex: ,	Ocor: L14C24
+
+E116
+Tok: Num	Lex: 10	Ocor: L14C23
+
+E117
+Tok: Pont	Lex: ,	Ocor: L14C20
+
+E118
+Tok: Num	Lex: 5	Ocor: L14C19
+
+E119
+Tok: Pont	Lex: {	Ocor: L14C18
+
+E120
+Tok: Op		Lex: =	Ocor: L14C16
+
+E121
+Tok: Pont	Lex: ]	Ocor: L14C14
+
+E122
+Tok: Pont	Lex: [	Ocor: L14C13
+
+E123
+Tok: Id		Lex: arr	Ocor: L14C12
+
+E124
+Tok: Key	Lex: int	Ocor: L14C8
+
+E125
+Tok: Pont	Lex: {	Ocor: L13C13
+
+E126
+Tok: Pont	Lex: )	Ocor: L13C11
+
+E127
+Tok: Pont	Lex: (	Ocor: L13C10
+
+E128
+Tok: Key	Lex: main	Ocor: L13C9
+
+E129
+Tok: Key	Lex: int	Ocor: L13C4
+
+E130
+Tok: Pont	Lex: }	Ocor: L11C2
+
+E131
+Tok: Coment	Lex:  Retorna -1 se o valor não for encontrado	Ocor: L11C1
+
+E132
+Tok: Pont	Lex: ;	Ocor: L10C15
+
+E133
+Tok: Num	Lex: 1	Ocor: L10C14
+
+E134
+Tok: Op		Lex: -	Ocor: L10C13
+
+E135
+Tok: Key	Lex: return	Ocor: L10C11
+
+E136
+Tok: Pont	Lex: }	Ocor: L9C6
+
+E137
+Tok: Pont	Lex: }	Ocor: L8C10
+
+E138
+Tok: Coment	Lex:  Retorna o índice onde o valor foi encontrado	Ocor: L8C1
+
+E139
+Tok: Pont	Lex: ;	Ocor: L7C22
+
+E140
+Tok: Id		Lex: i	Ocor: L7C21
+
+E141
+Tok: Key	Lex: return	Ocor: L7C19
+
+E142
+Tok: Pont	Lex: {	Ocor: L6C31
+
+E143
+Tok: Pont	Lex: )	Ocor: L6C29
+
+E144
+Tok: Id		Lex: value	Ocor: L6C28
+
+E145
+Tok: Op		Lex: ==	Ocor: L6C22
+
+E146
+Tok: Pont	Lex: ]	Ocor: L6C19
+
+E147
+Tok: Id		Lex: i	Ocor: L6C18
+
+E148
+Tok: Pont	Lex: [	Ocor: L6C17
+
+E149
+Tok: Id		Lex: arr	Ocor: L6C16
+
+E150
+Tok: Pont	Lex: (	Ocor: L6C13
+
+E151
+Tok: Key	Lex: if	Ocor: L6C11
+
+E152
+Tok: Pont	Lex: {	Ocor: L5C34
+
+E153
+Tok: Pont	Lex: )	Ocor: L5C32
+
+E154
+Tok: Op		Lex: +	Ocor: L5C31
+
+E155
+Tok: Op		Lex: +	Ocor: L5C30
+
+E156
+Tok: Id		Lex: i	Ocor: L5C29
+
+E157
+Tok: Pont	Lex: ;	Ocor: L5C27
+
+E158
+Tok: Id		Lex: n	Ocor: L5C26
+
+E159
+Tok: Op		Lex: <	Ocor: L5C24
+
+E160
+Tok: Id		Lex: i	Ocor: L5C22
+
+E161
+Tok: Pont	Lex: ;	Ocor: L5C20
+
+E162
+Tok: Num	Lex: 0	Ocor: L5C19
+
+E163
+Tok: Op		Lex: =	Ocor: L5C17
+
+E164
+Tok: Id		Lex: i	Ocor: L5C15
+
+E165
+Tok: Key	Lex: int	Ocor: L5C13
+
+E166
+Tok: Pont	Lex: (	Ocor: L5C10
+
+E167
+Tok: Key	Lex: for	Ocor: L5C8
+
+E168
+Tok: Pont	Lex: {	Ocor: L4C42
+
+E169
+Tok: Pont	Lex: )	Ocor: L4C40
+
+E170
+Tok: Id		Lex: value	Ocor: L4C39
+
+E171
+Tok: Key	Lex: int	Ocor: L4C33
+
+E172
+Tok: Pont	Lex: ,	Ocor: L4C29
+
+E173
+Tok: Id		Lex: n	Ocor: L4C28
+
+E174
+Tok: Key	Lex: int	Ocor: L4C26
+
+E175
+Tok: Pont	Lex: ,	Ocor: L4C22
+
+E176
+Tok: Pont	Lex: ]	Ocor: L4C21
+
+E177
+Tok: Pont	Lex: [	Ocor: L4C20
+
+E178
+Tok: Id		Lex: arr	Ocor: L4C19
+
+E179
+Tok: Key	Lex: int	Ocor: L4C15
+
+E180
+Tok: Pont	Lex: (	Ocor: L4C12
+
+E181
+Tok: Id		Lex: search	Ocor: L4C11
+
+E182
+Tok: Key	Lex: int	Ocor: L4C4
+
+E183
+Tok: Coment	Lex:  Função para pesquisar um valor em um vetor	Ocor: L4C1
+
+E184
+Tok: Direct	Lex: #include <stdio.h>	Ocor: L2C1
